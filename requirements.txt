@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+faiss-cpu
+python-multipart
