@@ -1,6 +1,11 @@
-fastapi
-uvicorn
-langchain
-sentence-transformers
-faiss-cpu
-python-multipart
+fastapi>=0.95.0
+uvicorn>=0.18.0
+langchain>=0.0.148
+langchain-community
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.2
+python-multipart>=0.0.5
+python-dotenv>=0.21.0
+spacy
+numpy>=1.21.0
+openai>=0.27.0
